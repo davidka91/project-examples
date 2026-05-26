@@ -9,7 +9,7 @@ pipeline {
         GIT_REPO_URL = "https://github.com/jfrog/project-examples.git"
         DOCKERFILE_DIR = "docker-oci-examples/docker-example"
         DOCKER_IMAGE_TAG = "my-image:latest"
-        DOCKER_IMAGE_NAME = "<JFrog-URL>/davidka-docker-local/my-image:latest"
+        DOCKER_IMAGE_NAME = "<JFrog-URL>/docker-local/my-image:latest"
     }
 
     stages {
