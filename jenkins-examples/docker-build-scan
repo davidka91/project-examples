@@ -1,4 +1,4 @@
-//pipeline example with using the JFrog Jenkins plugin - https://plugins.jenkins.io/jfrog/
+//Pipeline example using the JFrog Jenkins plugin - https://plugins.jenkins.io/jfrog/
 
 pipeline {
     agent any
